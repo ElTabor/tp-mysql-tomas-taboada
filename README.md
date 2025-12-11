@@ -61,7 +61,7 @@ SOURCE sql/10_join_multiple.sql;
 - ✅ Ejercicio 7: Actualizar datos
 - ✅ Ejercicio 8: Eliminar datos
 - ✅ Ejercicio 9: JOIN simple
-- ❌ Ejercicio 10: JOIN múltiple
+- ✅ Ejercicio 10: JOIN múltiple
 
 ## 👨‍💻 Autor
 
