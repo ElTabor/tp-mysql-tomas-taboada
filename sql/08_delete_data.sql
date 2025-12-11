@@ -1,3 +1,4 @@
+#Eiminar datos de una tabla
 DELETE FROM mascotas WHERE id_mascota = 2;
 
 #VERIFICACIÓN:

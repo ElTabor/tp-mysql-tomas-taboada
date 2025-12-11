@@ -1,3 +1,5 @@
+# Multiple joins entre historial_clinico, mascotas, dueños y veterinarios para obtener un reporte completo
+
 SELECT
     m.nombre AS mascota,
     m.especie,

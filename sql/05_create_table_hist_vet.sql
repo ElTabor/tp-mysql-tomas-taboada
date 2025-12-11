@@ -1,3 +1,5 @@
+#Crear tabla historial_clinico
+
 CREATE TABLE historial_clinico (
     id INT PRIMARY KEY AUTO_INCREMENT,
     id_mascota INT,

@@ -1,3 +1,5 @@
+#Actualizar datos en las tablas
+
 UPDATE duenos
 SET
     direccion = 'calle actualizada 111'

@@ -1,3 +1,5 @@
+#Crear tabla mascotas
+
 CREATE TABLE mascotas (
     id INT PRIMARY KEY AUTO_INCREMENT,
     nombre VARCHAR(50) NOT NULL,

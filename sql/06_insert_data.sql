@@ -1,3 +1,5 @@
+#Insertar datos de ejemplo en las tablas
+
 INSERT into
     duenos (
         nombre,
